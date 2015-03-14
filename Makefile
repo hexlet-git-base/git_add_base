@@ -1,1 +1,1 @@
-include /vagrant/docker.mk
+include ../../docker.mk

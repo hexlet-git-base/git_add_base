@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /Users/kirill/projects/hexlet-vagrant/exercises/git_add_base_exercise/exercise/my_repo
+	ignorecase = true
+	precomposeunicode = true
